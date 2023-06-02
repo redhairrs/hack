@@ -30,13 +30,15 @@
 - It is D-App on [Ethereum](https://www.ethereum.org/).
 - Back-End has Smart Contract 
 - Front-end of our Web-App is made with [React.Js](https://github.com/facebook/create-react-app) and our complete frontend components are available at 
-  https://github.com/Abhin4vKumar/VerifyBharat
+      https://github.com/Abhin4vKumar/VerifyBharat
+ <br>
 <p align="center">
  ![image](https://github.com/redhairrs/hack/assets/86844932/b8430005-6f17-4055-ac49-a03252b0e535)
 </p>
 
 - It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.
-- We are usingnBrowser Extension to work with Ethereum.
+- We are using Browser Extension to work with Ethereum.
+ <br>
   ![Screenshot 2023-06-02 171458](https://github.com/redhairrs/hack/assets/86844932/a05c9344-c499-434e-82a5-4298893aad7b)
 
 ## How to Use
