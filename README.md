@@ -47,7 +47,6 @@
 - There are two ways to login
   - Login as `Student`
   - Login as `Institute`
- <br>
 <p align="center">
     ![image](https://github.com/redhairrs/hack/assets/86844932/f850778e-efa7-4cc9-886f-d844c1df0ccc)
 </p>
@@ -56,7 +55,6 @@
 ### Dashboard
 
  #### Student Dashboard
- 
  <p align="center">
    ![image](https://github.com/redhairrs/hack/assets/86844932/080e6a9b-920b-42f2-9a69-29853da3ff69)
 </p>   
