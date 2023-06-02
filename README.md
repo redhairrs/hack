@@ -8,7 +8,6 @@
 
 <div align="center">
   
- 
   [![made-with-react](https://img.shields.io/badge/React-2.1.5-brightgreen.svg?style=for-the-badge)](https://github.com/facebook/create-react-app)
    [![](https://img.shields.io/badge/-Ethereum-lightgrey.svg?style=for-the-badge)](https://www.ethereum.org/)
     ![](https://img.shields.io/badge/Smart%20-Contract-lightgrey.svg?style=for-the-badge)
