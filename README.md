@@ -34,7 +34,7 @@
 <p align="center">
  ![image](https://github.com/redhairrs/hack/assets/86844932/b669d714-ff2f-4d64-9ff8-da0107d558da)
 </p>
-- It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.
+- It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.<br>
 - We are using Browser Extension to work with Ethereum.
  <br>
   <p align="center">
