@@ -48,18 +48,15 @@
   - Login as `Student`
   - Login as `Institute`
  <br>
-    ![image](https://github.com/redhairrs/hack/assets/86844932/45d28ad5-dab3-410b-be52-c206eb460845)
 <p align="center">
     ![image](https://github.com/redhairrs/hack/assets/86844932/f850778e-efa7-4cc9-886f-d844c1df0ccc)
 </p>
-
  - Upon First Signup `Metamask` will ask permission to connect your wallet with App.
 
 ### Dashboard
 
  #### Student Dashboard
  
-  
  <p align="center">
    ![image](https://github.com/redhairrs/hack/assets/86844932/080e6a9b-920b-42f2-9a69-29853da3ff69)
 </p>   
@@ -75,40 +72,6 @@
  - `Change Institute` 
     - Students can request change of institute , this request is sent to current institute ,Upon approval students institute is changed. 
    
-## Installation 
-
-### For Development
- - We are using Truffle for testing and development of this project.
- - Also you need to have Metamask Browser Extension.
- - For setting up Truffle (more detailed instruction are avalaible [here](https://github.com/truffle-box/react-box) )  
- - Steps :
-   - Clone the repo
-   > $ git clone https://github.com/nikhildsahu/E-Certify.git
-   - Setup Truffle
-     - Install truffle
-     > $ npm install -g truffle
-     - Unbox React inside any Directory 
-     > $ truffle unbox react
-     - Inside that Directory
-     - Now replace Contracts folder with  Contracts folder present in Repo.
-     - Also Copy Complete Repo content in to Client folder. 
-     - Run the development console 
-     > $ truffle develop
-     - Compile and migrate the smart contracts.
-     > compile
-     
-     > migrate
-     - In the client directory, we run the React app.
-     >// in another terminal (i.e. not in the truffle develop prompt)
-     
-     > $ cd client
-     
-     > $ npm run start
-     
-  - Open http://localhost:3000 to view it in the browser.       
-  - Import Account on Metamask with keys given by Truffle .
-  - Testing and Development can be done on these Accounts.
-  - Smart contract changes must be manually recompiled and migrated then only it will work.
   -------------------------------------
   ## Contributing
   - We're are open to enhancements & bug-fixes.
