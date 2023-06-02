@@ -33,13 +33,15 @@
       https://github.com/Abhin4vKumar/VerifyBharat
  <br>
 <p align="center">
- ![image](https://github.com/redhairrs/hack/assets/86844932/b8430005-6f17-4055-ac49-a03252b0e535)
+ ![image](https://github.com/redhairrs/hack/assets/86844932/b669d714-ff2f-4d64-9ff8-da0107d558da)
 </p>
 
 - It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.
 - We are using Browser Extension to work with Ethereum.
  <br>
-  ![Screenshot 2023-06-02 171458](https://github.com/redhairrs/hack/assets/86844932/a05c9344-c499-434e-82a5-4298893aad7b)
+  <p align="center">
+    ![image](https://github.com/redhairrs/hack/assets/86844932/9dc12f8d-a354-49f2-8317-33be84c57e70)
+ </p>
 
 ## How to Use
 
@@ -74,28 +76,6 @@
  - `Change Institute` 
     - Students can request change of institute , this request is sent to current institute ,Upon approval students institute is changed. 
    
- #### Institute Dashboard
- 
- <p align="center">
- <img height=350px  src=".//img/s11.png" >
-</p>
- 
- - Institute Dashboard have these options :
- 
- - `Linked Accouts`
-   - In this section all student accounts linked to institute are shown.
-   - Institute can students certificates from here.
-   - Also institute can upload new certificates to students from here.
-  
-  - `Access Rights`
-    - It shows all the student accounts to whom institute has access ,to see their certificates.
-  
-  - `Pending Approvals`
-    - Student requests for certificates approvals appear here .
- 
- - `Change Institute Approvals`
-   - Student requests for change of institute appear here .
-    
 ## Installation 
 
 ### For Development
