@@ -31,11 +31,9 @@
 - Back-End has Smart Contract 
 - Front-end of our Web-App is made with [React.Js](https://github.com/facebook/create-react-app) and our complete frontend components are available at 
       https://github.com/Abhin4vKumar/VerifyBharat
- <br>
 <p align="center">
  ![image](https://github.com/redhairrs/hack/assets/86844932/b669d714-ff2f-4d64-9ff8-da0107d558da)
 </p>
-
 - It create Multi-Sig Wallets for every student where both Student and his/her Institute is Owner.
 - We are using Browser Extension to work with Ethereum.
  <br>
@@ -49,6 +47,7 @@
 - There are two ways to login
   - Login as `Student`
   - Login as `Institute`
+ <br>
     ![image](https://github.com/redhairrs/hack/assets/86844932/45d28ad5-dab3-410b-be52-c206eb460845)
 <p align="center">
     ![image](https://github.com/redhairrs/hack/assets/86844932/f850778e-efa7-4cc9-886f-d844c1df0ccc)
