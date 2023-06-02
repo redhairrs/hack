@@ -37,7 +37,7 @@
 - We are using Browser Extension to work with Ethereum.
  <br>
   <p align="center">
-    https://github.com/redhairrs/hack/assets/86844932/9dc12f8d-a354-49f2-8317-33be84c57e70
+    ![image](https://github.com/redhairrs/hack/assets/86844932/9bd51a6d-1793-4409-a751-3c8cca61b026)
  </p>
 
 ## How to Use
