@@ -75,8 +75,9 @@
   - We're are open to enhancements & bug-fixes.
   - Feel free to add issues and submit patches.
   ## Authors
-  - Atharva Udapure - [atharvau](https://github.com/atharvau)
-  - Nikhil Sahu - [nikhildsahu](https://github.com/nikhildsahu)
-  - Gaurav Sharma - [gauravsharma-gs](https://github.com/gauravsharma-gs)
+  - RISHABH SHARMA - https://github.com/redhairrs
+  - Aditya Dargan -  https://github.com/AdityaDargan
+  - Ayush Kumar Singh Rathor- https://github.com/AKSRathor
+  - Abhinv Kumar - https://github.com/Abhin4vKumar
 ## License
 This project is licensed under the MIT - see the [LICENSE](https://github.com/nikhildsahu/E-Certify/blob/master/LICENSE) file for details.
